@@ -1,0 +1,11 @@
+state,prominent_pollutants,days_tracked,rank_desc,rank_asc
+Andhra Pradesh,PM10,3515,1.0,18.0
+Andhra Pradesh,PM2.5,2086,2.0,17.0
+Karnataka,CO,3025,2.0,22.0
+Karnataka,PM10,14942,1.0,23.0
+Kerala,PM10,3557,1.0,15.0
+Kerala,PM2.5,1403,2.0,14.0
+Tamil Nadu,PM10,7063,1.0,25.0
+Tamil Nadu,PM2.5,2429,2.0,24.0
+Telangana,PM10,323,2.0,16.0
+Telangana,"PM2.5,PM10",427,1.0,17.0
